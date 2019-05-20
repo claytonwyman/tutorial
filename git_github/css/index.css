@@ -1,0 +1,24 @@
+body {
+    background-color: #637aa0;
+    color: #d1d1d1;
+}
+
+#top-link-div {
+    background-color: #2d2d2d;
+    text-align: center;
+    padding: 0px;
+    text-decoration: none;
+}
+
+#top-link-text {
+    color: #d3d3d3;
+}
+
+#title-text {
+    font-family: 'Roboto', sans-serif;
+    text-align: center; 
+}
+
+#name-text {
+    text-align: center;
+}
